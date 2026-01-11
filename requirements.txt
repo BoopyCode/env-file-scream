@@ -1,0 +1,2 @@
+# No dependencies! Pure Node.js magic.
+# Your environment variables are the only requirement.
